@@ -20,8 +20,8 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/vishal1610kamal/python-jwt.git
-   cd python-jwt
+   git clone https://github.com/vishal1610kamal/Python_Jwt_Sqlite.git
+   cd Python_Jwt_Sqlite
    ```
 
 2. Create a virtual environment (optional but recommended):
