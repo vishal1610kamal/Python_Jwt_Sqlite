@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/python-jwt.git
+   git clone https://github.com/vishal1610kamal/python-jwt.git
    cd python-jwt
    ```
 
