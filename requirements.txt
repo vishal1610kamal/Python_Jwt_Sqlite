@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+PyJWT
+Werkzeug
+flask_jwt_extended
